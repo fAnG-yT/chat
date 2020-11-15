@@ -1,0 +1,100 @@
+{
+  "id": "1988365",
+  "name": "chat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1137779",
+      "name": "错误",
+      "font_class": "cuowu",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "5321796",
+      "name": "加载",
+      "font_class": "jiazai",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "2815743",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4251763",
+      "name": "添加好友",
+      "font_class": "tianjiahaoyou",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "6279238",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "7235211",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "13769974",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "14122672",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "1203548",
+      "name": "搜索",
+      "font_class": "linedesign-12",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "991918",
+      "name": "置顶",
+      "font_class": "zhiding",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1279441",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "1793595",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "2019095",
+      "name": "我的好友",
+      "font_class": "wodehaoyou",
+      "unicode": "e7c1",
+      "unicode_decimal": 59329
+    }
+  ]
+}
